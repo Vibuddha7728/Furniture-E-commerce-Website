@@ -15,4 +15,4 @@ This is a simple website for selling furniture online. People can view furniture
 - **Database**: MySQL or MongoDB
 
 - Open the Browser:http://127.0.0.1:3000/furniture%20E-commerce%20Website/index.html
-- 
+ 
