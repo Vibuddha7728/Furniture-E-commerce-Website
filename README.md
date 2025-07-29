@@ -1,5 +1,5 @@
 
-🪑 Furniture E-Commerce Website
+##🪑 Furniture E-Commerce Website
 
 This is a simple website for selling furniture online. People can view furniture items, read details, add them to a cart, and place an order. The website works on both phones and computers.
 
